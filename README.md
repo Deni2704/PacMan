@@ -1,4 +1,4 @@
-# ** Pac-Man in Python**  
+# **Pac-Man in Python**  
 
 ## **📌 Overview**  
 This project implements the classic **Pac-Man** game in Python, using **search algorithms** and **artificial intelligence** to determine the movement of both Pac-Man and the ghosts. The game demonstrates **pathfinding techniques** and **AI behaviors** in a grid-based environment.  
