@@ -5,7 +5,7 @@ This project implements the classic **Pac-Man** game in Python, using **search a
 
 ## **🎮 Gameplay**  
 The goal of the game is for Pac-Man to **collect all the dots** on the map while avoiding the ghosts. His movement is determined by **search algorithms** and **AI strategies**.  
-
+![Pacman  Game](pacman.png)
 The game offers **two gameplay modes**:  
 1. **Search Mode** – Pac-Man uses search algorithms to find the best path.  
 2. **Multi-Agent Mode** – Includes AI for both Pac-Man and the ghosts, creating a more dynamic experience.  
